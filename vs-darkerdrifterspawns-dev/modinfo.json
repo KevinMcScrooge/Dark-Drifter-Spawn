@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "modid": "darkdrifterspawns",
+  "name": "Dark Drifter Spawns",
+  "authors": ["KevinMcScrooge"],
+  "description": "Lowers max light level from 9 to 1 for drifter, shiver, and bowtorn spawns.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "*"
+  }
+}
