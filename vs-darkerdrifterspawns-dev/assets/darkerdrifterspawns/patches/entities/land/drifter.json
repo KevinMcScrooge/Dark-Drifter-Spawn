@@ -3,7 +3,7 @@
 		"__comment": "Lower max light level so artifical light sources have an easier time blocking drifter spawns",
         "op": "replace",
         "path": "/server/spawnconditions/runtime/maxLightLevel",
-        "value": 4,
+        "value": 1,
         "file": "survival:entities/land/drifter.json"
     }
 ]
